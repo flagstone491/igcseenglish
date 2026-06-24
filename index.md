@@ -1,5 +1,3 @@
-# Cambridge iGCSE English Resources (0500/0990 & 0475/0992/2010)
-
 ![All 8 Books Covers](igcse-banner.gif)
 
 **High-quality searchable A4 PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books using tripod-assisted high-resolution scans and full OCR for easy searching and annotation.

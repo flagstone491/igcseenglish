@@ -1,5 +1,3 @@
-
-
 ![All 8 Books Covers](all-8-books-covers.gif){:width="500px" style="display:block; margin:0 auto;"}
 
 ## Cambridge iGCSE English Resources (0500/0990 & 0475/0992/2010)

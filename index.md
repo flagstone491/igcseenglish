@@ -26,16 +26,20 @@ Digitized from original books with professional tripod scans and OCR.
 
 ## Available Resources
 
+## Available Resources
+
 | Cover | Title | ISBN | Scan Details | File Size |
 |-------|-------|------|--------------|-----------|
-| ![9781009528795](9781009528795.jpg) | Cambridge IGCSE™ First Language English Coursebook with Digital Access (2 Years) – Graham Elsdon | 9781009528795 | Colour – Flatbed Scanner | ~ MB |
-| ![9781009522724](9781009522724.jpg) | Cambridge IGCSE™ and O Level Literature in English Coursebook with Digital Access (2 Years) – Russell Carey | 9781009522724 | Colour – Flatbed Scanner | ~ MB |
-| ![9780008700553](9780008700553.jpg) | Cambridge IGCSE™ English Student's Book (Collins) – Abhinandan Bhattacharya | 9780008700553 | Colour – Flatbed Scanner | ~ MB |
-| ![9780008781194](9780008781194.jpg) | Cambridge IGCSE™ Literature in English Student's Book (Collins) – Noel Cassidy | 9780008781194 | Colour – Flatbed Scanner | ~ MB |
-| ![9780008700560](9780008700560.jpg) | Cambridge IGCSE™ English Workbook (Collins) – Julia Burchell | 9780008700560 | Colour – Flatbed Scanner | ~ MB |
-| ![9780008758899](9780008758899.jpg) | Cambridge IGCSE™ English Revision Guide (Collins) | 9780008758899 | Colour – Flatbed Scanner | ~ MB |
-| ![9780008700577](9780008700577.jpg) | Cambridge IGCSE™ English Teacher's Guide (Collins) – Abhinandan Bhattacharya | 9780008700577 | **Black & White – Camera Scan** | ~ MB |
-| ![9780008781200](9780008781200.jpg) | Cambridge IGCSE™ Literature in English Teacher's Guide (Collins) – Anna Gregory | 9780008781200 | **Black & White – Camera Scan** | ~ MB |
+| [![9781009528795](9781009528795.jpg){:width="110px"}](9781009528795.jpg) | Cambridge IGCSE™ First Language English Coursebook with Digital Access (2 Years) – Graham Elsdon | 9781009528795 | Colour – Flatbed Scanner | ~ MB |
+| [![9781009522724](9781009522724.jpg){:width="110px"}](9781009522724.jpg) | Cambridge IGCSE™ and O Level Literature in English Coursebook with Digital Access (2 Years) – Russell Carey | 9781009522724 | Colour – Flatbed Scanner | ~ MB |
+| [![9780008700553](9780008700553.jpg){:width="110px"}](9780008700553.jpg) | Cambridge IGCSE™ English Student's Book (Collins) – Abhinandan Bhattacharya | 9780008700553 | Colour – Flatbed Scanner | ~ MB |
+| [![9780008781194](9780008781194.jpg){:width="110px"}](9780008781194.jpg) | Cambridge IGCSE™ Literature in English Student's Book (Collins) – Noel Cassidy | 9780008781194 | Colour – Flatbed Scanner | ~ MB |
+| [![9780008700560](9780008700560.jpg){:width="110px"}](9780008700560.jpg) | Cambridge IGCSE™ English Workbook (Collins) – Julia Burchell | 9780008700560 | Colour – Flatbed Scanner | ~ MB |
+| [![9780008758899](9780008758899.jpg){:width="110px"}](9780008758899.jpg) | Cambridge IGCSE™ English Revision Guide (Collins) | 9780008758899 | Colour – Flatbed Scanner | ~ MB |
+| [![9780008700577](9780008700577.jpg){:width="110px"}](9780008700577.jpg) | Cambridge IGCSE™ English Teacher's Guide (Collins) – Abhinandan Bhattacharya | 9780008700577 | **Black & White – Camera Scan** | ~ MB |
+| [![9780008781200](9780008781200.jpg){:width="110px"}](9780008781200.jpg) | Cambridge IGCSE™ Literature in English Teacher's Guide (Collins) – Anna Gregory | 9780008781200 | **Black & White – Camera Scan** | ~ MB |
+
+**Note:** All PDFs are high-quality, searchable A4 format with OCR enabled. Click on any cover to view full size.
 
 **Note:** All PDFs are high-quality, searchable A4 format with OCR enabled.
 

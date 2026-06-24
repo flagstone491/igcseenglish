@@ -1,3 +1,8 @@
+title: iGCSE 0500 & 0475 Resources
+description: High-quality digitized Cambridge IGCSE English PDFs for 2027 syllabus
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Optional customizations for Primer theme
+show_downloads: false

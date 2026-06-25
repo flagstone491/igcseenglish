@@ -1,5 +1,3 @@
-## Cambridge iGCSE English Resources (0500/0990 & 0475/0992/2010)
-
 **High-quality searchable PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books with full OCR.
 
 These are the exact endorsed resources for the current Cambridge syllabuses and represent excellent value compared to the combined original RRP of over **£290**.

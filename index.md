@@ -1,5 +1,3 @@
-![All 8 Books Covers](all-8-books-covers.gif){:width="500px" style="display:block; margin:0 auto;"}
-
 ## Cambridge iGCSE English Resources (0500/0990 & 0475/0992/2010)
 
 **High-quality searchable PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books with full OCR.
@@ -38,6 +36,8 @@ Save significantly compared to buying individually (combined original RRP over �
 
 ## 0500 First Language English
 
+![First Language English Banner](igcse-eng-banner.gif)
+
 These titles support the **Cambridge IGCSE First Language English** syllabuses **(0500 / 0990)** for examination from **2027**.  
 
 The course develops learners’ ability to communicate clearly, accurately and effectively in both speech and writing, while building strong analytical and reading skills.
@@ -53,6 +53,8 @@ The course develops learners’ ability to communicate clearly, accurately and e
 ---
 
 ## 0475 Literature in English
+
+![Literature in English Banner](igcse-lit-banner.gif)
 
 These titles support the **Cambridge IGCSE Literature in English** syllabuses **(0475 / 0992 / 2010)** for examination from **2028** (including O Level pathway).  
 

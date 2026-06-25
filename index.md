@@ -85,11 +85,17 @@ I’m a fellow educator with a strong passion for educational excellence and acc
 
 The following texts are commonly used as set texts or supplementary material for Cambridge IGCSE Literature in English. These are provided as free optional downloads.
 
+## Optional Free Study Resources (for 0475 / 0992 / 2010)
+
+The following texts and study guides are commonly used as set texts or supplementary material for Cambridge IGCSE Literature in English.
+
 | Cover | Title | Syllabus | ISBN | Details | File Size |
 |-------|-------|----------|------|---------|-----------|
 | ![9781108462266](9781108462266.jpg){:width="110px"} | Songs of Ourselves, Volume 1 (Selected 15 Poems) | **0475 / 0992 / 2010** | [9781108462266](https://www.cambridge.org/co/education/subject/english/english-literature/songs-ourselvesstories-ourselves/songs-ourselves-cambridge-assessment-international-education-anthology-poetry-english-volume-1-paperback?isbn=9781108462266) | Cambridge University Press Anthology. Includes: Shakespeare (Sonnet 18), Aphra Behn, Katherine Philips, William Blake, Alexander Pope, Carol Rumens, Charles Mungoshi, Liz Lochhead, Gillian Clarke, Boey Kim Cheng, Sujata Bhatt, Judith Wright, Kevin Halligan, Elizabeth Brewster, Seamus Heaney. | 4 MB |
 | ![Pride and Prejudice](9781593082017.jpg){:width="110px"} | Pride and Prejudice | **0475 / 0992 / 2010** | [9781593082017](https://shop.penguin.co.uk/products/pride-and-prejudice-by-jane-austen-3) | Jane Austen (Barnes & Noble Classics edition) – One of the most popular prose texts for Cambridge Literature. | 2 MB |
-| ![The Importance of Being Earnest](0140436068.jpg){:width="110px"} | The Importance of Being Earnest | **0475 / 0992 / 2010** | [0140436068](https://www.penguin.co.uk/books/34367/the-importance-of-being-earnest-and-other-plays-by-oscar-wilde-edited-with-an-introduction--commentaries-and-notes-by-richard-allen-cave/9780140436068) | Oscar Wilde (Penguin Classics edition) – Classic comedy play frequently studied in the syllabus. | 28 MB |
+| ![CliffsNotes Pride and Prejudice](cliffs-pride-prejudice.jpg){:width="110px"} | CliffsNotes on Pride and Prejudice | **0475 / 0992 / 2010** | 9780822010845 | Classic study guide with chapter summaries, character analysis, themes, and critical insights. Excellent support for exam preparation. | ~ MB |
+| ![The Importance of Being Earnest](9780140436068.jpg){:width="110px"} | The Importance of Being Earnest | **0475 / 0992 / 2010** | [9780140436068](https://www.penguin.co.uk/books/34367/the-importance-of-being-earnest-and-other-plays-by-oscar-wilde-edited-with-an-introduction--commentaries-and-notes-by-richard-allen-cave/9780140436068) | Oscar Wilde (Penguin Classics edition) – Classic comedy play frequently studied in the syllabus. | 28 MB |
+| ![CliffsNotes Importance of Being Earnest](cliffs-earnest.jpg){:width="110px"} | CliffsNotes on Wilde's The Importance of Being Earnest | **0475 / 0992 / 2010** | 9780764544613 | Detailed study guide including act-by-act summaries, character analysis, themes, and critical commentary. | ~ MB |
 
 ---
 

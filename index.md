@@ -1,6 +1,6 @@
 **High-quality searchable PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books with full OCR.
 
-These are the exact endorsed resources for the current Cambridge syllabuses and represent excellent value compared to the combined original RRP of over **£290**.
+These are the exact endorsed resources for the current Cambridge syllabuses and represent excellent value compared to the combined original RRP of over **£360**.
 
 ---
 
@@ -22,11 +22,11 @@ Instant digital delivery + full searchability makes these ideal for flexible lea
 
 ## Bundle Offers (Best Value)
 
-Save significantly compared to buying individually (combined original RRP over £290):
+Save significantly compared to buying individually (combined original RRP over £360):
 
-- **0500 / 0990 First Language English Full Set** (5 books) — **£38** / **$50**
-- **0475 / 0992 / 2010 Literature in English Full Set** (3 books) — **£28** / **$37**
-- **Complete 8-Book Library** (0500/0990 + 0475/0992/2010) — **£58** / **$76.50** (Best Value)
+- **0500 / 0990 First Language English Full Set** (5 books) — **£38** ($50)
+- **0475 / 0992 / 2010 Literature in English Full Set** (3 books) — **£28** ($37)
+- **Complete 8-Book Library** (0500/0990 + 0475/0992/2010) — **£58** ($76.50) (Best Value)
 
 **Instant digital delivery** — no shipping costs, no waiting, no postal risks, and no heavy books to carry.
 
@@ -40,13 +40,13 @@ These titles support the **Cambridge IGCSE First Language English** syllabuses *
 
 The course develops learners’ ability to communicate clearly, accurately and effectively in both speech and writing, while building strong analytical and reading skills.
 
-| Cover | Title | Syllabus | ISBN | Scan Details | File Size | Price | Sample |
-|-------|-------|----------|------|--------------|-----------|-------|--------|
-| [![9781009528795](9781009528795.jpg){:width="110px"}](9781009528795.jpg) | Cambridge IGCSE™ First Language English Coursebook – Graham Elsdon | **0500 / 0990** | [9781009528795](https://www.cambridge.org/gb/education/subject/english/cambridge-igcse-first-language-english-6th-edition/cambridge-igcse-first-language-english-6th-edition-coursebook-digital-access-2-years-digital-coursebook-2-years?isbn=9781009528795&format=DO) | Colour – Flatbed Scanner | 154 MB | **£10** / **$13.20** | [View Sample](https://mega.nz/file/oBVSVbCZ#C0d6SiJ8hZuAjYILNT4od-AXhgdqEBOHrrOB6cfltGw) |
-| [![9780008700553](9780008700553.jpg){:width="110px"}](9780008700553.jpg) | Cambridge IGCSE™ English Student's Book (Collins) – Abhinandan Bhattacharya | **0500 / 0990** | [9780008700553](https://collins.co.uk/products/9780008700553) | Colour – Flatbed Scanner | 234 MB | **£8** / **$10.50** | [View Sample](https://mega.nz/file/cV1AzbyJ#bSHyNMolzTPc5jxbiB5AhcxBN5SLRyePe3stQBUqAlw) |
-| [![9780008700560](9780008700560.jpg){:width="110px"}](9780008700560.jpg) | Cambridge IGCSE™ English Workbook (Collins) – Julia Burchell | **0500 / 0990** | [9780008700560](https://collins.co.uk/products/9780008700560) | **Black & White – Camera Scan** | 85 MB | **£5** / **$6.60** | [View Sample](https://mega.nz/file/IUU13KwQ#FWsgKEyzwF4eWsmtImPGz-sK85nqehkkafJr4b52c4g) |
-| [![9780008758899](9780008758899.jpg){:width="110px"}](9780008758899.jpg) | Cambridge IGCSE™ English Revision Guide (Collins) | **0500 / 0990** | [9780008758899](https://collins.co.uk/products/9780008758899) | Colour – Flatbed Scanner | 87 MB | **£6** / **$7.90** | [View Sample](https://mega.nz/file/FM92DSpb#3m0vu3EAXCIf8CdhTmOYcW56E0wQqthtuECU4DRNDSM) |
-| [![9780008700577](9780008700577.jpg){:width="110px"}](9780008700577.jpg) | Cambridge IGCSE™ English Teacher's Guide (Collins) – Abhinandan Bhattacharya | **0500 / 0990** | [9780008700577](https://collins.co.uk/products/9780008700577) | **Black & White – Camera Scan** | 176 MB | **£20** / **$26.40** | [View Sample](https://mega.nz/file/9R1VXYbS#grUc6uOBTxwWAPLZedilUrf3WKr2_Qc0P1REh_gC1xo) |
+| Cover | Title | Syllabus | ISBN | Original Price | Scan Details | File Size | Our Price | Sample |
+|-------|-------|----------|------|----------------|--------------|-----------|-------|--------|
+| [![9781009528795](9781009528795.jpg){:width="110px"}](9781009528795.jpg) | Cambridge IGCSE™ First Language English Coursebook – Graham Elsdon | **0500 / 0990** | [9781009528795](https://www.cambridge.org/gb/education/subject/english/cambridge-igcse-first-language-english-6th-edition/cambridge-igcse-first-language-english-6th-edition-coursebook-digital-access-2-years-digital-coursebook-2-years?isbn=9781009528795&format=DO) | £35.25 | Colour – Flatbed Scanner | 154 MB | **£10** ($13.20) | [View Sample](https://mega.nz/file/oBVSVbCZ#C0d6SiJ8hZuAjYILNT4od-AXhgdqEBOHrrOB6cfltGw) |
+| [![9780008700553](9780008700553.jpg){:width="110px"}](9780008700553.jpg) | Cambridge IGCSE™ English Student's Book (Collins) – Abhinandan Bhattacharya | **0500 / 0990** | [9780008700553](https://collins.co.uk/products/9780008700553) | £29.99 | Colour – Flatbed Scanner | 234 MB | **£8** ($10.50) | [View Sample](https://mega.nz/file/cV1AzbyJ#bSHyNMolzTPc5jxbiB5AhcxBN5SLRyePe3stQBUqAlw) |
+| [![9780008700560](9780008700560.jpg){:width="110px"}](9780008700560.jpg) | Cambridge IGCSE™ English Workbook (Collins) – Julia Burchell | **0500 / 0990** | [9780008700560](https://collins.co.uk/products/9780008700560) | £12.99 | **Black & White – Camera Scan** | 85 MB | **£5** ($6.60) | [View Sample](https://mega.nz/file/IUU13KwQ#FWsgKEyzwF4eWsmtImPGz-sK85nqehkkafJr4b52c4g) |
+| [![9780008758899](9780008758899.jpg){:width="110px"}](9780008758899.jpg) | Cambridge IGCSE™ English Revision Guide (Collins) | **0500 / 0990** | [9780008758899](https://collins.co.uk/products/9780008758899) | £16.99 | Colour – Flatbed Scanner | 87 MB | **£6** ($7.90) | [View Sample](https://mega.nz/file/FM92DSpb#3m0vu3EAXCIf8CdhTmOYcW56E0wQqthtuECU4DRNDSM) |
+| [![9780008700577](9780008700577.jpg){:width="110px"}](9780008700577.jpg) | Cambridge IGCSE™ English Teacher's Guide (Collins) – Abhinandan Bhattacharya | **0500 / 0990** | [9780008700577](https://collins.co.uk/products/9780008700577) | £100.00 | **Black & White – Camera Scan** | 176 MB | **£20** ($26.40) | [View Sample](https://mega.nz/file/9R1VXYbS#grUc6uOBTxwWAPLZedilUrf3WKr2_Qc0P1REh_gC1xo) |
 
 ---
 
@@ -58,11 +58,11 @@ These titles support the **Cambridge IGCSE Literature in English** syllabuses **
 
 Learners develop the ability to read, interpret and evaluate literary texts, understand deeper themes and contexts, and respond personally and critically to a wide range of literature.
 
-| Cover | Title | Syllabus | ISBN | Scan Details | File Size | Price | Sample |
-|-------|-------|----------|------|--------------|-----------|-------|--------|
-| [![9781009522724](9781009522724.jpg){:width="110px"}](9781009522724.jpg) | Cambridge IGCSE™ and O Level Literature in English Coursebook – Russell Carey | **0475 / 0992 / 2010** | [9781009522724](https://www.cambridge.org/gb/education/subject/english/english-literature/cambridge-igcse-and-o-level-literature-english-3rd-edition/cambridge-igcse-and-o-level-literature-english-3rd-edition-coursebook-digital-access-2-years-digital-coursebook-2-years?format=DO&isbn=9781009522724) | Colour – Flatbed Scanner | 160 MB | **£10** / **$13.20** | [View Sample](https://mega.nz/file/YQkBkQrT#DqQAtY_bvoLcfkhwB2fbPfdT5eoY374GMRDU2REItK4) |
-| [![9780008781194](9780008781194.jpg){:width="110px"}](9780008781194.jpg) | Cambridge IGCSE™ Literature in English Student's Book (Collins) – Noel Cassidy | **0475 / 0992 / 2010** | [9780008781194](https://collins.co.uk/products/9780008781194) | Colour – Flatbed Scanner | 176 MB | **£8** / **$10.50** | [View Sample](https://mega.nz/file/dEcWALqZ#r7QXm8l9wzskzyF_44LXaG_vk2wbM-eFgD8GPFSmKr0) |
-| [![9780008781200](9780008781200.jpg){:width="110px"}](9780008781200.jpg) | Cambridge IGCSE™ Literature in English Teacher's Guide (Collins) – Anna Gregory | **0475 / 0992 / 2010** | [9780008781200](https://collins.co.uk/products/9780008781200) | **Black & White – Camera Scan** | 156 MB | **£20** / **$26.40** | [View Sample](https://mega.nz/file/UcFi0QJC#rgoVnUEAIprvjGuO_KPaid5qS9H8ngcd2V_lPg4m7Bg) |
+| Cover | Title | Syllabus | ISBN | Original Price | Scan Details | File Size | Our Price | Sample |
+|-------|-------|----------|------|----------------|--------------|-----------|-------|--------|
+| [![9781009522724](9781009522724.jpg){:width="110px"}](9781009522724.jpg) | Cambridge IGCSE™ and O Level Literature in English Coursebook – Russell Carey | **0475 / 0992 / 2010** | [9781009522724](https://www.cambridge.org/gb/education/subject/english/english-literature/cambridge-igcse-and-o-level-literature-english-3rd-edition/cambridge-igcse-and-o-level-literature-english-3rd-edition-coursebook-digital-access-2-years-digital-coursebook-2-years?format=DO&isbn=9781009522724) | £34.95 | Colour – Flatbed Scanner | 160 MB | **£10** ($13.20) | [View Sample](https://mega.nz/file/YQkBkQrT#DqQAtY_bvoLcfkhwB2fbPfdT5eoY374GMRDU2REItK4) |
+| [![9780008781194](9780008781194.jpg){:width="110px"}](9780008781194.jpg) | Cambridge IGCSE™ Literature in English Student's Book (Collins) – Noel Cassidy | **0475 / 0992 / 2010** | [9780008781194](https://collins.co.uk/products/9780008781194) | £28.99 | Colour – Flatbed Scanner | 176 MB | **£8** ($10.50) | [View Sample](https://mega.nz/file/dEcWALqZ#r7QXm8l9wzskzyF_44LXaG_vk2wbM-eFgD8GPFSmKr0) |
+| [![9780008781200](9780008781200.jpg){:width="110px"}](9780008781200.jpg) | Cambridge IGCSE™ Literature in English Teacher's Guide (Collins) – Anna Gregory | **0475 / 0992 / 2010** | [9780008781200](https://collins.co.uk/products/9780008781200) | £100.00 | **Black & White – Camera Scan** | 156 MB | **£20** ($26.40) | [View Sample](https://mega.nz/file/UcFi0QJC#rgoVnUEAIprvjGuO_KPaid5qS9H8ngcd2V_lPg4m7Bg) |
 
 ---
 

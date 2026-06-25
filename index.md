@@ -49,6 +49,7 @@ The course develops learners’ ability to communicate clearly, accurately and e
 | [![9780008700560](9780008700560.jpg){:width="110px"}](9780008700560.jpg) | Cambridge IGCSE™ English Workbook (Collins) – Julia Burchell | **0500 / 0990** | [9780008700560](https://collins.co.uk/products/9780008700560) | **Black & White – Camera Scan** | 85 MB | **£5** / **$6.60** | [View Sample](https://mega.nz/file/IUU13KwQ#FWsgKEyzwF4eWsmtImPGz-sK85nqehkkafJr4b52c4g) |
 | [![9780008758899](9780008758899.jpg){:width="110px"}](9780008758899.jpg) | Cambridge IGCSE™ English Revision Guide (Collins) | **0500 / 0990** | [9780008758899](https://collins.co.uk/products/9780008758899) | Colour – Flatbed Scanner | 87 MB | **£6** / **$7.90** | [View Sample](https://mega.nz/file/FM92DSpb#3m0vu3EAXCIf8CdhTmOYcW56E0wQqthtuECU4DRNDSM) |
 | [![9780008700577](9780008700577.jpg){:width="110px"}](9780008700577.jpg) | Cambridge IGCSE™ English Teacher's Guide (Collins) – Abhinandan Bhattacharya | **0500 / 0990** | [9780008700577](https://collins.co.uk/products/9780008700577) | **Black & White – Camera Scan** | 176 MB | **£20** / **$26.40** | [View Sample](https://mega.nz/file/9R1VXYbS#grUc6uOBTxwWAPLZedilUrf3WKr2_Qc0P1REh_gC1xo) |
+
 ---
 
 ## 0475 Literature in English

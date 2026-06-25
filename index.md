@@ -1,22 +1,20 @@
 **High-quality searchable PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books with full OCR.
 
-These are the exact endorsed resources for the current Cambridge syllabuses and represent excellent value compared to the combined original RRP of over **£360**.
+These are the **exact endorsed resources** for the current Cambridge syllabuses and represent **excellent value** compared to the combined original RRP of over **£360**.
 
 ---
 
 ### Perfect for Homeschoolers, Private Tutors & International Schools
 
-These fully searchable PDFs are **AI-analysis ready** (you can easily search, copy text, highlight, and use with AI tools for lesson planning, essay feedback, or personalised study).
+These fully searchable PDFs are **AI-analysis ready** — you can easily search, copy text, highlight, and use them with AI tools for lesson planning, essay feedback, or personalised study.
 
-- **0500 / 0990 First Language English** (exams from 2027):  
-  [500](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-english-first-language-0500/) | [9-1 (0990)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-9-1-first-language-english-0990/)
+- **0500 / 0990 First Language English** (exams from 2027): [0500](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-english-first-language-0500/) | [9-1 (0990)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-9-1-first-language-english-0990/)
 
-- **0475 / 0992 / 2010 Literature in English** (exams from 2028, including O Level pathway):  
-  [0475](https://www.cambridgeinternational.org/programmes-and-qualifications/english-literature-0475/) | [9-1 (0992)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-english-literature-0992/) | [2010](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-literature-in-english-2010/)
+- **0475 / 0992 / 2010 Literature in English** (exams from 2028, including O Level pathway): [0475](https://www.cambridgeinternational.org/programmes-and-qualifications/english-literature-0475/) | [9-1 (0992)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-english-literature-0992/) | [2010](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-literature-in-english-2010/)
 
-The **Collins Cambridge series** is especially popular among homeschoolers and private educators for its clear structure, practical activities, and strong scaffolding that works very well alongside the core Cambridge University Press books.
+The **Collins Cambridge series** is especially popular among homeschoolers and private educators for its clear structure, practical activities, and strong scaffolding that complements the core Cambridge University Press books very effectively.
 
-Instant digital delivery + full searchability makes these ideal for flexible learning environments.
+**Instant digital delivery** and full searchability make these resources ideal for flexible learning environments.
 
 ---
 
@@ -28,7 +26,7 @@ Save significantly compared to buying individually (combined original RRP over �
 - **0475 / 0992 / 2010 Literature in English Full Set** (3 books) — **£28** ($37)
 - **Complete 8-Book Library** (0500/0990 + 0475/0992/2010) — **£58** ($76.50) (Best Value)
 
-**Instant digital delivery** — no shipping costs, no waiting, no postal risks, and no heavy books to carry.
+**Instant digital delivery** — no shipping/delivery costs, no waiting, no postal risks, and no heavy books to carry.
 
 ---
 
@@ -89,13 +87,13 @@ The following texts are commonly used as set texts or supplementary material for
 
 The following texts and study guides are commonly used as set texts or supplementary material for Cambridge IGCSE Literature in English.
 
-| Cover | Title | Syllabus | ISBN | Details | File Size |
-|-------|-------|----------|------|---------|-----------|
-| ![9781108462266](9781108462266.jpg){:width="110px"} | Songs of Ourselves, Volume 1 (Selected 15 Poems) | **0475 / 0992 / 2010** | [9781108462266](https://www.cambridge.org/co/education/subject/english/english-literature/songs-ourselvesstories-ourselves/songs-ourselves-cambridge-assessment-international-education-anthology-poetry-english-volume-1-paperback?isbn=9781108462266) | Cambridge University Press Anthology. Includes: Shakespeare (Sonnet 18), Aphra Behn, Katherine Philips, William Blake, Alexander Pope, Carol Rumens, Charles Mungoshi, Liz Lochhead, Gillian Clarke, Boey Kim Cheng, Sujata Bhatt, Judith Wright, Kevin Halligan, Elizabeth Brewster, Seamus Heaney. | 4 MB |
-| ![Pride and Prejudice](9781593082017.jpg){:width="110px"} | Pride and Prejudice | **0475 / 0992 / 2010** | [9781593082017](https://shop.penguin.co.uk/products/pride-and-prejudice-by-jane-austen-3) | Jane Austen (Barnes & Noble Classics edition) – One of the most popular prose texts for Cambridge Literature. | 2 MB |
-| ![CliffsNotes Pride and Prejudice](cliffs-pride-prejudice.jpg){:width="110px"} | CliffsNotes on Pride and Prejudice | **0475 / 0992 / 2010** | [9780822010845](https://www.amazon.com/CliffsNotes-Pride-Prejudice-Jane-Austen/dp/0822010844) | Classic study guide with chapter summaries, character analysis, themes, and critical insights. Excellent support for exam preparation. | ~ MB |
-| ![The Importance of Being Earnest](9780140436068.jpg){:width="110px"} | The Importance of Being Earnest | **0475 / 0992 / 2010** | [9780140436068](https://www.penguin.co.uk/books/34367/the-importance-of-being-earnest-and-other-plays-by-oscar-wilde-edited-with-an-introduction--commentaries-and-notes-by-richard-allen-cave/9780140436068) | Oscar Wilde (Penguin Classics edition) – Classic comedy play frequently studied in the syllabus. | 28 MB |
-| ![CliffsNotes Importance of Being Earnest](cliffs-earnest.jpg){:width="110px"} | CliffsNotes on Wilde's The Importance of Being Earnest | **0475 / 0992 / 2010** | [9780764544613](https://www.amazon.com/CliffsNotes-Importance-Earnest-CLIFFSNOTES-LITERATURE/dp/0764544616) | Detailed study guide including act-by-act summaries, character analysis, themes, and critical commentary. | ~ MB |
+| Cover | Title | Syllabus | ISBN | Details | File Size | Free Download |
+|-------|-------|----------|------|---------|-----------|----------|
+| ![9781108462266](9781108462266.jpg){:width="110px"} | Songs of Ourselves, Volume 1 (Selected 15 Poems) | **0475 / 0992 / 2010** | [9781108462266](https://www.cambridge.org/co/education/subject/english/english-literature/songs-ourselvesstories-ourselves/songs-ourselves-cambridge-assessment-international-education-anthology-poetry-english-volume-1-paperback?isbn=9781108462266) | Cambridge University Press Anthology. **Selected Poems:** Shakespeare – Sonnet 18, Aphra Behn – Song: Love Armed, Katherine Philips – A Married State, William Blake – The Chimney-Sweeper, Alexander Pope – from An Essay on Man, Carol Rumens – Carpet-weavers Morocco, Charles Mungoshi – Before the Sun, Liz Lochhead – Storyteller, Gillian Clarke – Lament, Boey Kim Cheng – Report to Wordsworth, Sujata Bhatt – A Different History, Judith Wright – Hunting Snake, Kevin Halligan – The Cockroach, Elizabeth Brewster – Where I Come From, Seamus Heaney – Follower. | 4 MB | [Download](https://mega.nz/file/oEthUYYa#j1pnmkxnKcbpvUyLSBpXghiUa-Wj3C-OC8yvK4j2TlQ) |
+| ![Pride and Prejudice](9781593082017.jpg){:width="110px"} | Pride and Prejudice | **0475 / 0992 / 2010** | [9781593082017](https://shop.penguin.co.uk/products/pride-and-prejudice-by-jane-austen-3) | Jane Austen – One of the most popular prose texts for Cambridge Literature. | 2 MB | [Download](https://mega.nz/file/xZclwDBA#8HgUckLNlcC_xOqiWqviSx73ggvPrl8DAdmSeCtmLBI) |
+| ![CliffsNotes Pride and Prejudice](9780822010845.jpg){:width="110px"} | CliffsNotes on Pride and Prejudice | **0475 / 0992 / 2010** | [9780822010845](https://www.amazon.com/CliffsNotes-Pride-Prejudice-Jane-Austen/dp/0822010844) | Classic study guide with chapter summaries, character analysis, themes, and critical insights. Excellent support for exam preparation. | 1 MB | [Download](https://mega.nz/file/xc92wRCL#MRu7AkcHYBFDJKyaVXdLSyLQoS6WAxZKrNC0vOz2ytA) |
+| ![The Importance of Being Earnest](9780140436068.jpg){:width="110px"} | The Importance of Being Earnest | **0475 / 0992 / 2010** | [9780140436068](https://www.penguin.co.uk/books/34367/the-importance-of-being-earnest-and-other-plays-by-oscar-wilde-edited-with-an-introduction--commentaries-and-notes-by-richard-allen-cave/9780140436068) | Oscar Wilde (Penguin Classics edition) – Classic comedy play frequently studied in the syllabus. | 28 MB | [Download](https://mega.nz/file/sYUU2DIL#TqcnuYozLPQqlb26sunXR0ckv8DQlBDqmB1nZSxJeDQ) |
+| ![CliffsNotes Importance of Being Earnest](9780764544613.jpg){:width="110px"} | CliffsNotes on Wilde's The Importance of Being Earnest | **0475 / 0992 / 2010** | [9780764544613](https://www.amazon.com/CliffsNotes-Importance-Earnest-CLIFFSNOTES-LITERATURE/dp/0764544616) | Detailed study guide including act-by-act summaries, character analysis, themes, and critical commentary. | 2 MB | [Download](https://mega.nz/file/NEEkjILB#LPr2qwyQHIxko5RdNbJrTtJzLqReIhHGRI6BWwv6bkY) ||
 
 ---
 

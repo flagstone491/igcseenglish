@@ -83,10 +83,6 @@ I’m a fellow educator with a strong passion for educational excellence and acc
 
 The following texts are commonly used as set texts or supplementary material for Cambridge IGCSE Literature in English. These are provided as free optional downloads.
 
-## Optional Free Study Resources (for 0475 / 0992 / 2010)
-
-The following texts and study guides are commonly used as set texts or supplementary material for Cambridge IGCSE Literature in English.
-
 | Cover | Title | Syllabus | ISBN | Details | File Size | Free Download |
 |-------|-------|----------|------|---------|-----------|----------|
 | ![Songs of Ourselves, Volume 1](9781108462266.jpg){:width="110px"} | Songs of Ourselves, Volume 1 (Selected 15 Poems) | **0475 / 0992 / 2010** | [9781108462266](https://www.cambridge.org/co/education/subject/english/english-literature/songs-ourselvesstories-ourselves/songs-ourselves-cambridge-assessment-international-education-anthology-poetry-english-volume-1-paperback?isbn=9781108462266) | Cambridge University Press Anthology. **Selected Poems:** Shakespeare – Sonnet 18, Aphra Behn – Song: Love Armed, Katherine Philips – A Married State, William Blake – The Chimney-Sweeper, Alexander Pope – from An Essay on Man, Carol Rumens – Carpet-weavers Morocco, Charles Mungoshi – Before the Sun, Liz Lochhead – Storyteller, Gillian Clarke – Lament, Boey Kim Cheng – Report to Wordsworth, Sujata Bhatt – A Different History, Judith Wright – Hunting Snake, Kevin Halligan – The Cockroach, Elizabeth Brewster – Where I Come From, Seamus Heaney – Follower. | 4 MB | [Download](https://mega.nz/file/ZJcx2CRA#j1pnmkxnKcbpvUyLSBpXghiUa-Wj3C-OC8yvK4j2TlQ) |

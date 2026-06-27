@@ -1,6 +1,17 @@
-**High-quality searchable PDFs** of the official coursebooks, workbooks, and teacher guides — professionally digitised from the original physical books with full OCR.
+![First Language English Banner](igcse-eng-banner.gif)
+![Literature in English Banner](igcse-lit-banner.gif)
 
-These are the **exact endorsed resources** for the current Cambridge syllabuses and represent **excellent value** compared to the combined original RRP of over **£360**.
+**High-quality, fully searchable PDF scans** of the official Cambridge IGCSE coursebooks, student books, workbooks, revision guides, and teacher’s guides for **First Language English (0500/0990)** and **Literature in English (0475/0992/2010)**.
+
+Professionally digitised from the original physical books with clear scans and complete OCR, these are the exact endorsed resources used by schools worldwide.
+
+**Save significantly** — the combined original RRP of these books exceeds **£360**. Now available as convenient digital editions with **instant delivery**, no shipping costs, no waiting, and full searchability.
+
+**Perfect for homeschoolers, private candidates, international students, and teachers** who need reliable, portable resources that work on any device and support AI tools for study and lesson planning.
+
+**Enquiries & orders:** IGCSE.FLAGSTONE491@PASSFWD.COM
+
+I’m happy to help you find the right combination for your needs.
 
 ---
 

@@ -9,7 +9,7 @@ Professionally digitised from the original physical books with clear scans and c
 
 **Perfect for homeschoolers, private candidates, international students, and teachers** who need reliable, portable resources that work on any device and support AI tools for study and lesson planning.
 
-**Enquiries & orders:** IGCSE.FLAGSTONE491@PASSFWD.COM
+**Enquiries & orders:** [IGCSE.FLAGSTONE491@PASSFWD.COM](mailto:IGCSE.FLAGSTONE491@PASSFWD.COM)
 
 I’m happy to help you find the right combination for your needs.
 

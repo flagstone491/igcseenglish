@@ -5,9 +5,11 @@
 
 Professionally digitised from the original physical books with clear scans and complete OCR, these are the exact endorsed resources used by schools worldwide.
 
-**Save significantly** — the combined original RRP of these books exceeds **£360**. Now available as convenient digital editions with **instant delivery**, no shipping costs, no waiting, and full searchability.
+**Save up to 70-80%** compared to buying the physical books — the combined original RRP easily exceeds **£360**. Now available as convenient digital editions with **instant delivery**, no shipping costs, no waiting, and full searchability.
 
 **Perfect for homeschoolers, private candidates, international students, and teachers** who need reliable, portable resources that work on any device and support AI tools for study and lesson planning.
+
+Follow us on X: [@FlagstoneIGCSE](https://x.com/FlagstoneIGCSE)
 
 **Enquiries & orders:** [IGCSE.FLAGSTONE491@PASSFWD.COM](mailto:IGCSE.FLAGSTONE491@PASSFWD.COM)
 
@@ -75,7 +77,6 @@ Learners develop the ability to read, interpret and evaluate literary texts, und
 
 ---
 
-
 ## How to Purchase
 
 Payments are **secure** and card payments are possible via a trusted third-party platform. Easy payment instructions will be provided promptly over email.
@@ -84,7 +85,9 @@ I’m a fellow educator with a strong passion for educational excellence and acc
 
 **Contact me directly** for bundle options, sample files, full resources, and instant delivery. I usually reply within a few hours.
 
-**EMAIL:** [IGCSE.FLAGSTONE491@PASSFWD.COM](mailto:IGCSE.FLAGSTONE491@PASSFWD.COM)
+**Primary Contact:** [IGCSE.FLAGSTONE491@PASSFWD.COM](mailto:IGCSE.FLAGSTONE491@PASSFWD.COM)
+
+**Secondary option:** DM me on X [@FlagstoneIGCSE](https://x.com/FlagstoneIGCSE)
 
 **Instant digital delivery** — no waiting, no shipping costs, no postal risks.
 
